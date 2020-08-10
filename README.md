@@ -28,6 +28,7 @@ The school board has notified Maria and her supervisor that the student data sho
 3. How does replacing the ninth_grade scores affect the following:
     * Math and reading scores by grade
         * The only changes from replacing the 9th grade scores was in the 9th grade reading scores for Thomas Higschool. The reading score decreased from 83.72 to 83.58.
+        
 ![image](https://user-images.githubusercontent.com/67936161/89756725-35c1d100-da98-11ea-8a8f-cb0462ac3054.png)
 ![image](https://user-images.githubusercontent.com/67936161/89756758-44a88380-da98-11ea-9fe9-f0d455044070.png)
 
